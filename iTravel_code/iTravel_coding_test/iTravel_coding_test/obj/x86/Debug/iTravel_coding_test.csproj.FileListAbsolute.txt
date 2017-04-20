@@ -1,0 +1,7 @@
+A:\download_file\document\GitHub\coding_test\iTravel_code\iTravel_coding_test\iTravel_coding_test\bin\Debug\iTravel_coding_test.exe
+A:\download_file\document\GitHub\coding_test\iTravel_code\iTravel_coding_test\iTravel_coding_test\bin\Debug\iTravel_coding_test.pdb
+A:\download_file\document\GitHub\coding_test\iTravel_code\iTravel_coding_test\iTravel_coding_test\obj\x86\Debug\iTravel_coding_test.Form1.resources
+A:\download_file\document\GitHub\coding_test\iTravel_code\iTravel_coding_test\iTravel_coding_test\obj\x86\Debug\iTravel_coding_test.Properties.Resources.resources
+A:\download_file\document\GitHub\coding_test\iTravel_code\iTravel_coding_test\iTravel_coding_test\obj\x86\Debug\iTravel_coding_test.csproj.GenerateResource.Cache
+A:\download_file\document\GitHub\coding_test\iTravel_code\iTravel_coding_test\iTravel_coding_test\obj\x86\Debug\iTravel_coding_test.exe
+A:\download_file\document\GitHub\coding_test\iTravel_code\iTravel_coding_test\iTravel_coding_test\obj\x86\Debug\iTravel_coding_test.pdb
